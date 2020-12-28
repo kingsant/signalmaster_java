@@ -22,8 +22,8 @@ public class StunServersConfig {
     }
 
     public static StunServersConfig getStunServer() {
-        //TODO 填入自己的stun
-        return new StunServersConfig(Lists.newArrayList(new InnerUrl("stun:XX:3478")));
+        //TODO
+        return new StunServersConfig(Lists.newArrayList(new InnerUrl("stun:115.227.32.3:3478")));
     }
 
     @Data

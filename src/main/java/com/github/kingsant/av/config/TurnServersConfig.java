@@ -34,7 +34,6 @@ public class TurnServersConfig {
     }
 
     public static TurnServersConfig getConfig() {
-        //TODO 填入自己的turn
-        return new TurnServersConfig(Lists.newArrayList(new InnerConfig(Lists.newArrayList("turn:XX:3478"), "XX", "123456")));
+        return new TurnServersConfig(Lists.newArrayList(new InnerConfig(Lists.newArrayList("turn:115.227.32.3:3478"), "jpc", "123456")));
     }
 }

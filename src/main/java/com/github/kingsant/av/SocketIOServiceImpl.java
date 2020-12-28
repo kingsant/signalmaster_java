@@ -1,12 +1,12 @@
-package com.company.project.av;
+package com.github.kingsant.av;
 
-import com.company.project.av.bo.AvSocketMessageBO;
-import com.company.project.av.bo.RoomClientBO;
-import com.company.project.av.bo.SocketClientBO;
-import com.company.project.av.bo.SocketClientDecorator;
-import com.company.project.av.config.SocketIOConfig;
-import com.company.project.av.config.StunServersConfig;
-import com.company.project.av.config.TurnServersConfig;
+import com.github.kingsant.av.bo.AvSocketMessageBO;
+import com.github.kingsant.av.bo.RoomClientBO;
+import com.github.kingsant.av.bo.SocketClientBO;
+import com.github.kingsant.av.bo.SocketClientDecorator;
+import com.github.kingsant.av.config.SocketIOConfig;
+import com.github.kingsant.av.config.StunServersConfig;
+import com.github.kingsant.av.config.TurnServersConfig;
 import com.corundumstudio.socketio.BroadcastOperations;
 import com.corundumstudio.socketio.SocketIOClient;
 import com.corundumstudio.socketio.SocketIOServer;

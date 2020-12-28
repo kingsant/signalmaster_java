@@ -1,4 +1,4 @@
-package com.company.project.model;
+package com.github.kingsant.model;
 
 import javax.persistence.*;
 

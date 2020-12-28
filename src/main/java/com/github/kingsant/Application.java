@@ -1,4 +1,4 @@
-package com.company.project;
+package com.github.kingsant;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

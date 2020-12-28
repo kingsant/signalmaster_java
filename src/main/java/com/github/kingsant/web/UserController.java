@@ -1,7 +1,7 @@
-package com.company.project.web;
-import com.company.project.core.Result;
-import com.company.project.core.ResultGenerator;
-import com.company.project.model.User;
+package com.github.kingsant.web;
+import com.github.kingsant.core.Result;
+import com.github.kingsant.core.ResultGenerator;
+import com.github.kingsant.model.User;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

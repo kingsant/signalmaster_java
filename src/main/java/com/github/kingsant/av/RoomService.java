@@ -1,4 +1,4 @@
-package com.company.project.av;
+package com.github.kingsant.av;
 
 import com.corundumstudio.socketio.SocketIOClient;
 import com.google.common.collect.Maps;
