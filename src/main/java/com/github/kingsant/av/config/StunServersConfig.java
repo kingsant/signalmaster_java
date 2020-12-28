@@ -1,4 +1,4 @@
-package com.company.project.av.config;
+package com.github.kingsant.av.config;
 
 import com.google.common.collect.Lists;
 import lombok.Data;
@@ -23,7 +23,7 @@ public class StunServersConfig {
 
     public static StunServersConfig getStunServer() {
         //TODO
-        return new StunServersConfig(Lists.newArrayList(new InnerUrl("stun:115.227.32.3:3478")));
+        return new StunServersConfig(Lists.newArrayList(new InnerUrl("stun:xx:3478")));
     }
 
     @Data

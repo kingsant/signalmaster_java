@@ -1,4 +1,4 @@
-package com.company.project.av.config;
+package com.github.kingsant.av.config;
 
 import com.corundumstudio.socketio.SocketConfig;
 import com.corundumstudio.socketio.SocketIOServer;

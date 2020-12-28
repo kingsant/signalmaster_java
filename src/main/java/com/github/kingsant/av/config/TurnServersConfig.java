@@ -1,4 +1,4 @@
-package com.company.project.av.config;
+package com.github.kingsant.av.config;
 
 import com.google.common.collect.Lists;
 import lombok.Data;
@@ -34,6 +34,7 @@ public class TurnServersConfig {
     }
 
     public static TurnServersConfig getConfig() {
-        return new TurnServersConfig(Lists.newArrayList(new InnerConfig(Lists.newArrayList("turn:115.227.32.3:3478"), "jpc", "123456")));
+        //TODO
+        return new TurnServersConfig(Lists.newArrayList(new InnerConfig(Lists.newArrayList("turn:xx:3478"), "xx", "123456")));
     }
 }

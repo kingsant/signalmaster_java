@@ -1,4 +1,4 @@
-package com.company.project.av.bo;
+package com.github.kingsant.av.bo;
 
 import lombok.Data;
 

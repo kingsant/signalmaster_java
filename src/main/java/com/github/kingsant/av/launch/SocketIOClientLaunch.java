@@ -1,4 +1,4 @@
-package com.company.project.av.launch;
+package com.github.kingsant.av.launch;
 
 import cn.hutool.core.date.DateUtil;
 import io.socket.client.IO;
